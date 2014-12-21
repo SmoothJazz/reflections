@@ -1,0 +1,17 @@
+When you iniitalize a
+repository it creates the
+.git file that tracks the
+history of all files in the 
+repository, and that's 
+kind of important to
+have for a version 
+control system
+
+The staging area is different
+as it offers somewhat of a 
+buffer zone before you submit 
+your commits, and allows you to
+bundle files together that are
+all related to one change
+instead of committing them all
+one by one. 
