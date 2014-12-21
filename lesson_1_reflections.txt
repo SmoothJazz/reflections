@@ -1,0 +1,49 @@
+Viewing a diff of two files
+makes it easier to spot bugs
+especially if you use short lines
+because diff only shows the
+lines that have changed 
+and highlights them
+it's much easier
+than just having the two files
+side by side
+
+If you have access to the old
+versions of a file then it's
+always readily available to
+restore if something goes 
+wrong, and can be checked 
+against to find bugs in the
+new code
+
+Creating commits manually makes
+them more meaningful, but is prone
+to user error, whereas automatic
+commits aren't prone to user error
+the commits themselves may not be
+all that useful
+
+The reason some VCS's allow saving
+multiple files in one commit is that
+they cater to writing code. where
+each file in a project is likely 
+to be related, but not every file
+you ever make on Docs is likely to
+related
+
+You can use git log and git diff
+to find past versions where
+specific feature were added
+and use diff to see exactly 
+what's changed between files
+
+You'll be more confident in making
+commit's because if it introduces
+an error you can very easily
+just revert back to an older
+state of the code
+
+Now that the workspace is set
+up it'll hopefully start making 
+me more efficient at writing
+code for projects.
