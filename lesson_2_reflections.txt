@@ -15,3 +15,22 @@ bundle files together that are
 all related to one change
 instead of committing them all
 one by one. 
+
+You can use the staging area 
+to compare between versions
+and check if you actually 
+want to commit something.
+
+Different branches are useful
+for when you want to create
+different versions of a project
+without running the risk of 
+introducing fatal bugs to
+your existing code
+
+The diagrams change the way
+you visualize it by making
+the repository a non-linear
+group of nodes instead of
+a completely linear group
+of directories.
