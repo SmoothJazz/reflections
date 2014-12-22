@@ -17,3 +17,14 @@ as your own. A branch is within the
 same repo and a clone is just a copy
 of another repository.
 
+The benefit of having a copy of the 
+last known state of the remote stored
+locally is that it gives you somewhat
+of a 'control' of what the last bit
+of working code looked like.
+
+oh my god it would be infinitely easier
+to collaborate with git/github, no 
+question about it. The automated merge
+with conflict detection is enough
+reason alone to use it.
