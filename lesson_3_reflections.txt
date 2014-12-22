@@ -3,3 +3,17 @@ remote repository if you want
 to work across multiple computers
 or if you're working on a project
 with multiple people.
+
+Automatically pulling changes
+from git may overwrite changes
+on your local version of the
+repository.
+
+A fork is git making a clone of
+another repository that's on their
+servers, under your name so that
+you can freely modify those files
+as your own. A branch is within the
+same repo and a clone is just a copy
+of another repository.
+
