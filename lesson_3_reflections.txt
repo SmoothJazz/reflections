@@ -1,0 +1,5 @@
+It'd be a good idea to use a
+remote repository if you want
+to work across multiple computers
+or if you're working on a project
+with multiple people.
