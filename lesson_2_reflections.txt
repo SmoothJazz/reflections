@@ -34,3 +34,17 @@ the repository a non-linear
 group of nodes instead of
 a completely linear group
 of directories.
+
+Merging two branches together
+combines two different versions
+of the code into one, uniting all
+their features.
+
+The Pros of Git's automatic
+merging feature is that it's
+infinitely easier than going
+through possibely thousands
+of lines of code to merge
+everything manually, even if
+there is the chance of running
+into a merge conflict
