@@ -28,3 +28,10 @@ to collaborate with git/github, no
 question about it. The automated merge
 with conflict detection is enough
 reason alone to use it.
+
+I would prefer to make every
+large change that could potentially
+break the code in a separate branch
+and then after I'm sure that code
+is completely bug free merge it back
+into master. 
